@@ -1,0 +1,20 @@
+{
+  "name": "hacker-battles-server",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "netlify-cli": "^13.0.1",
+    "nodemon": "^2.0.2",
+    "shuffle-array": "^1.0.1",
+    "socket.io": "^2.3.0"
+  }
+}
